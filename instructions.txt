@@ -1,0 +1,46 @@
+Online Bookstore Project Structure:
+Objective:
+Develop an online bookstore to display books, categories, details, and search functionalities using HTML, CSS, and JavaScript with locally stored book data.
+Task Guidelines:
+HTML Structure (index.html):
+
+Create an HTML file (index.html) providing the layout for the online bookstore.
+Structure the header, book categories, book display section, search bar, and book details section.
+CSS Styling (styles.css):
+
+Implement CSS styles for the website layout, header, navigation bar, book cards, search bar, and book details for a visually appealing interface.
+JavaScript Functionality (script.js):
+
+Manage book data using JavaScript arrays or objects stored locally within the script file.
+Populate the website with local book data and implement functionalities using this data.
+Book Data Setup:
+
+Create an array or object containing book details such as title, author, genre, ISBN, description, and image URLs.
+Populate the local book data with a reasonable number of books to display.
+Book Display:
+
+Implement functions to display books categorized by genres or categories on the homepage.
+Show book covers, titles, authors, and brief descriptions using the locally stored data.
+Book Details:
+
+Develop functionality to show detailed information about a selected book when a user clicks on a book card.
+Display additional details like synopsis, author information, ISBN, and other relevant information from the local data.
+Search Functionality:
+
+Create a search bar allowing users to search for books by title, author, genre, or keywords within the local book data.
+Dynamically display search results based on the entered query.
+Add to Cart (Optional):
+
+Optionally, implement a simple shopping cart functionality to add books for purchase.
+Testing and Validation:
+
+Thoroughly test the website functionalities, ensuring correct book data display, search functionality, and book details.
+Submission Guidelines:
+
+Submit all files (index.html, styles.css, script.js) in a compressed archive (ZIP format).
+Label and organize code sections for clarity and understanding.
+Ensure the website functions without errors and showcases the local book data accurately.
+Note:
+Utilize local JavaScript arrays or objects to simulate book data for this project.
+Encourage students to focus on functionality and user interface design while using local data as a substitute for APIs or databases.
+Emphasize the importance of proper code structure, comments, and adherence to coding best practices to create an engaging and functional online bookstore using only locally stored book information.
